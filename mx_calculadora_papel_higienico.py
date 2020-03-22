@@ -1,4 +1,5 @@
 #Definir el consumo de papel higiénico en México.
+#Fuente de información: https://www.statista.com/outlook/80000000/116/tissue-hygiene-paper/mexico#market-volume
 print("De acuerdo con datos de www.statista.com, en el 2019, cada mexicano, en promedio, consumió alrededor de 7.49kg de papel higiénico al año.")
 print("Cada rollo contiene aproximadamente 90g, lo que equivale a 83 rollos de papel por año.")
 print("La Secretaría de Salud en México ha sugerido un periodo de aislamiento de 30 días. Por lo tanto, usted necesitará papel higiénico suficiente para un mes.")
