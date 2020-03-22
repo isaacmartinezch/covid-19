@@ -21,14 +21,19 @@ else:
 #Definición de la cantidad y tamaño de los paquetes que debería comprar
 if monthly_cons <= 6:
     paq_size = 6
+    print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
 elif monthly_cons <= 12:
     paq_size = 12
+    print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
 elif monthly_cons <= 18:
     paq_size = 18
+    print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
 elif monthly_cons <= 24:
     paq_size = 24
+    print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
 elif monthly_cons <= 36:
     paq_size = 36
+    print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
 elif monthly_cons <= 48:
     paq_size = 48
     print(f"Se aconseja que compre solamente un paquete de {paq_size} rollos para toda la cuarentena.")
